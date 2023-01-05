@@ -1,0 +1,7 @@
+D:\jenkinWebApplication2\obj\Release\netcoreapp3.1\PubTmp\Out\jenkinWebApplication2.exe
+D:\jenkinWebApplication2\obj\Release\netcoreapp3.1\PubTmp\Out\appsettings.Development.json
+D:\jenkinWebApplication2\obj\Release\netcoreapp3.1\PubTmp\Out\appsettings.json
+D:\jenkinWebApplication2\obj\Release\netcoreapp3.1\PubTmp\Out\jenkinWebApplication2.dll
+D:\jenkinWebApplication2\obj\Release\netcoreapp3.1\PubTmp\Out\jenkinWebApplication2.deps.json
+D:\jenkinWebApplication2\obj\Release\netcoreapp3.1\PubTmp\Out\jenkinWebApplication2.runtimeconfig.json
+D:\jenkinWebApplication2\obj\Release\netcoreapp3.1\PubTmp\Out\jenkinWebApplication2.pdb

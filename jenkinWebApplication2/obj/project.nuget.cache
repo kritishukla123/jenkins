@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "B2kY4/mFsCJjAOUMF2DYOifsHg8s7qUgXpmza53vAtMj2KKohvPYsRmh/tuOqjUvRC1W8PpTtlhrEAK0bK6hNQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\kritishukla\\Desktop\\kriti\\kriti-shukla\\jenkinWebApplication2\\jenkinWebApplication2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kritishukla\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512"
+  ],
+  "logs": []
+}
